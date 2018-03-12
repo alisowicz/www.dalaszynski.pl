@@ -1,0 +1,74 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M770.048 210.656l-120.736 268h-35.136l128.768-285.312h-198.816v664.672c40.96 1.504 250.016 69.344 250.016 69.344v32.64h-561.92v-34.848c0 0 213.696-67.168 245.888-67.168v-664.64h-192.48l128.8 285.312h-35.136l-120.736-268-120.736 268h-35.136l129.536-286.912v-33.088h216.128c0-43.296 29.024-78.656 62.88-78.656 35.808 0 62.88 37.376 62.88 78.656h220.096v28.384l131.712 291.616h-35.136l-120.736-268zM416.64 511.328c0 86.176-59.776 169.024-158.048 169.024-96.064 0-158.048-82.848-158.048-169.024-0.032 0.128 316.096 0.128 316.096 0zM616.384 511.328c0 0.16 316.128 0.16 316.128 0 0 86.176-59.776 169.024-158.048 169.024-96.096 0-158.080-82.848-158.080-169.024z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "justice",
+          "balance",
+          "equality",
+          "court"
+        ],
+        "grid": 32
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 1,
+        "id": 1,
+        "prevSize": 32,
+        "name": "justice",
+        "code": 59648
+      },
+      "setIdx": 3,
+      "setId": 2,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": false,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false,
+      "autoHost": true
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16,
+    "quickUsageToken": {
+      "UntitledProject": "Y2E4ODgxMzY4Y2RlNzZkZjVmYzJlMmJlMzQwOWQzMzcjMSMxNTEyNDI2NzA2IyMj"
+    }
+  }
+}
