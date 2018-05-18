@@ -46,6 +46,8 @@ a:visited {
 
 .main-page {
   width: 100% vw;
+  max-width: 1280px;
+  margin: 0 auto;
   background-color: white;
   overflow: hidden;
   font-family: 'Montserrat', sans-serif; }
