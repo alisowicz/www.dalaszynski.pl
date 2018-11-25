@@ -43,12 +43,13 @@
   margin: 30px 0;
   font-size: 24px;
   font-weight: bold;
-}
+} 
 
 a:link {
   text-decoration: none;
   color: rgba(71, 81, 82, 0.84);
   position: relative;
+  font-size: 1.4em;
 
   &:hover {
     text-decoration: none;
@@ -119,7 +120,7 @@ a:visited {
     background-size: cover;
     background-position: 59% 10%;
     background-repeat: no-repeat;
-    height: calc(100vh - 0px);
+    height: 500px;
     width: 100%;
   }
 
@@ -143,7 +144,8 @@ a:visited {
     font-size: $font-size19;
     text-align: center;
     line-height: 25px;
-    padding: 0 120px;
+    max-width: 762px;
+    margin: 0 auto;
     font-weight: unset;
     color: rgba(71, 81, 82, 0.84);
   }
@@ -152,6 +154,7 @@ a:visited {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    flex-wrap: wrap;
     padding: 10px;
     width: 90%;
     margin-left: auto;
